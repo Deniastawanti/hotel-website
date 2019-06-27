@@ -137,7 +137,7 @@ h3 {
   height: 450px;
 }
 .info-img {
-  background: url("../img/hall.jpeg") no-repeat;
+  background: url("../img/hall.jpeg") no-repeat;center center/cover;
   float: left;
   width: 50%;
   min-height: 100%;
